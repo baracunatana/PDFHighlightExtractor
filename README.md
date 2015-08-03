@@ -5,6 +5,6 @@ I publish it because I know that there are a lot of poor soul out there facing t
 
 # Donations
 If PDF Highlight Extractor made your life easier in any way, please consider a [donation to the developer of the tool](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBPAZ3SMLFQHN).
-Alternatively, you can also use the following links to make your usual shopping in Amazon and I'll get a tiny bit back from the sales. It does not cost you a penny and it helps suppor the app!
+Alternatively, you can also use the following links to make your usual shopping in Amazon and I'll get a tiny bit back from the sales. It does not cost you a penny and it helps support the app!
 * [Amazon USA](http://www.amazon.com/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=patalrev-20&linkId=NWALUTV2EUOXPEJJ)
 * [Amazon UK](http://www.amazon.co.uk/ref=as_li_ss_tl?_encoding=UTF8&camp=1634&creative=19450&linkCode=ur2&tag=patalrev-21)
